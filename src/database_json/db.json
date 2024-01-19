@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "VICKYRAI",
+      "email": "vickyrai9592989487@gmail.com",
+      "age": "22",
+      "id": 1
+    },
+    {
+      "name": "GARRY",
+      "email": "JACK0046@GMAIL.COM",
+      "age": "15",
+      "id": 2
+    }
+  ],
+  "student": [
+    {
+      "e_name": "sunny",
+      "e_email": "sunnyu@5464.com",
+      "id": 2
+    },
+    {
+      "e_name": "vicky",
+      "e_email": "vickyrai9592989487@gmail.com",
+      "id": 3
+    },
+    {
+      "e_name": "vicky",
+      "e_email": "vickyrai9592989487@gmail.com",
+      "id": 4
+    }
+  ],
+  "data": [
+    {
+      "name": "sunny",
+      "roll.no": 22
+    }
+  ]
+}
